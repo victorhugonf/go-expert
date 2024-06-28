@@ -1,0 +1,3 @@
+{{template "title.csv"}}
+{{range.}}{{.Nome | ToUpper}};{{.CargaHoraria}}
+{{end}}
