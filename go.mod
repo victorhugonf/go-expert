@@ -1,4 +1,4 @@
-module github.com/victorhugonf/go-intensivo
+module github.com/victorhugonf/go-expert
 
 go 1.20
 
